@@ -1,7 +1,7 @@
 # Olist E-Commerce - SQL Analysis
 
 Olist is a real Brazilian e-commerce platform that connects small merchants to large marketplaces.  
-This project explores 100k+ real orders through SQL to answer business questions across six domains.  
+This project explores 96k+ real orders through SQL to answer business questions across six domains.  
 The goal of this project is to identify customer behavior patterns, delivery performance issues, and seller quality gaps.
 
 
